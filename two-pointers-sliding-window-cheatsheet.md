@@ -1,5 +1,5 @@
 # Two Pointers & Sliding Window Cheatsheet
-## Essential Patterns for Intuitive Surgical Interview
+## Essential Patternn
 
 ---
 
