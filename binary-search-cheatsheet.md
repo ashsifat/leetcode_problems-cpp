@@ -1,5 +1,5 @@
 # Binary Search Pattern Cheatsheet
-## Essential Pattern for Intuitive Surgical Interview
+## Essential Pattern
 
 ---
 
