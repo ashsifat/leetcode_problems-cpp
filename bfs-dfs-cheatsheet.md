@@ -1,5 +1,5 @@
 # BFS & DFS Pattern Cheatsheet
-## Graph & Tree Traversal for Intuitive Surgical Interview
+## Graph & Tree Traversal
 
 ---
 
